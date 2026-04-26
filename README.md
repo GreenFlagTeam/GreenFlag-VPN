@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Скачать-APK-4ade80?style=for-the-badge&logo=android&logoColor=white" alt="Скачать APK"/>
     </a>
     <img src="https://img.shields.io/badge/Android-7.0+-9ca3af?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0+"/>
-    <img src="https://img.shields.io/badge/Версия-1.2.2-9ca3af?style=for-the-badge" alt="Версия 1.2.2"/>
+    <img src="https://img.shields.io/badge/Версия-1.2.3-9ca3af?style=for-the-badge" alt="Версия 1.2.3"/>
   </p>
 </div>
 
@@ -21,6 +21,10 @@
 - **DPI** — обход блокировки YouTube **без VPN-сервера**.
 - **VPN** — полноценный VPN через наши серверы.
 - **Авто** — приложение само выбирает оптимальный режим для каждого сайта.
+
+## Черный список
+
+Приложение имеет черный список: VPN не затрагивает русские сервисы, бдагодаря чему они работают!
 
 ## Скриншоты
 
@@ -37,10 +41,6 @@
 2. Разрешите установку из неизвестных источников
 3. Откройте скачанный APK и нажмите **Установить**
 4. Запустите **GreenFlag**, войдите по email и пользуйтесь
-
-## Черный список
-
-Приложение имеет черный список: VPN не затрагивает русские сервисы, бдагодаря чему они работают!
 
 ## Реферальная программа
 
