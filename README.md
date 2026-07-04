@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/banner.png" alt="GreenFlag VPN" width="600"/>
+  <img src="docs/new_name.png" alt="GreenFlag VPN" width="600"/>
 
   <h3>Обход блокировок YouTube и Telegram для Android</h3>
 
@@ -13,10 +13,11 @@
 </div>
 
 ---
+# Скачать в Google Play:
+https://play.google.com/store/apps/details?id=com.needlevpn.app
+Или по запросу "needlevpn" в Google Play
 
 ## О приложении
-
-###Скачать в Google Play - https://play.google.com/store/apps/details?id=com.needlevpn.app
 
 **NeedleVPN** — это Android-приложение для обхода блокировок. Работает в трех режимах:
 
